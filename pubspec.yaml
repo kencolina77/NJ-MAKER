@@ -1,10 +1,10 @@
 name: nj_maker_app
-description: NJ MAKER - 3D Print & Design Official Mobile App (Catalog, 3D Slicer Quote & Order Manager)
+description: Aplicación Oficial de NJ MAKER - 3D PRINT & DESIGN (Catálogo 3D y Cotizador Slicer STL).
 publish_to: 'none'
 version: 1.0.0+1
 
 environment:
-  sdk: '>=3.0.0 <4.0.0'
+  sdk: '>=3.2.0 <4.0.0'
 
 dependencies:
   flutter:
